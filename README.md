@@ -27,7 +27,7 @@
 
 * **Tên môn học:** Phát triển ứng dụng Web
 * **Mã môn học:** IS207
-* **Lớp học:** IS207.Qxx
+* **Lớp học:** IS207.R13
 * **Năm học:** 2026-2027
 
 ---
@@ -46,11 +46,11 @@
 
 | STT |   MSSV   | Họ và Tên    | GitHub                        |
 | --- | :------: | ------------ | ----------------------------- |
-| 1   | XXXXXXXX | Nguyễn Văn A | [GitHub](https://github.com/) |
-| 2   | XXXXXXXX | Nguyễn Văn B | [GitHub](https://github.com/) |
-| 3   | XXXXXXXX | Nguyễn Văn C | [GitHub](https://github.com/) |
-| 4   | XXXXXXXX | Nguyễn Văn D | [GitHub](https://github.com/) |
-| 5   | XXXXXXXX | Nguyễn Văn E | [GitHub](https://github.com/) |
+| 1   | 24521081 | Nguyễn Văn Minh | [GitHub](https://github.com/) |
+| 2   | 24520304 | Đào Trọng Định  | [GitHub](https://github.com/) |
+| 3   | 24521034 | Châu Gia Lương  | [GitHub](https://github.com/) |
+| 4   | 24521093 | Nguyễn Thế Mỹ   |[GitHub](https://github.com/) |
+
 
 ---
 
@@ -79,21 +79,6 @@ Dự án tập trung vào việc xây dựng một nền tảng giúp khách hà
 Bên cạnh phía khách hàng, hệ thống dự kiến có khu vực dành cho nhân viên và quản trị viên nhằm hỗ trợ quản lý các hoạt động của hệ thống.
 
 > **Lưu ý:** Các chức năng và phạm vi cụ thể của dự án sẽ được nhóm tiếp tục phân tích, thiết kế và hoàn thiện trong quá trình thực hiện đồ án.
-
----
-
-## REPOSITORY
-
-<a name="repository"></a>
-
-**Repository:**
-`https://github.com/<username>/<repository-name>`
-
-### Clone Repository
-
-```bash
-git clone https://github.com/<username>/<repository-name>.git
-```
 
 ---
 
