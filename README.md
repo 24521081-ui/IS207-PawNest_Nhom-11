@@ -46,7 +46,7 @@
 
 | STT |   MSSV   | Họ và Tên    | GitHub                        |
 | --- | :------: | ------------ | ----------------------------- |
-| 1   | 24521081 | Nguyễn Văn Minh | [GitHub](https://github.com/) |
+| 1   | 24521081 | Nguyễn Văn Minh | [GitHub](https://github.com/24521081-ui) |
 | 2   | 24520304 | Đào Trọng Định  | [GitHub](https://github.com/) |
 | 3   | 24521034 | Châu Gia Lương  | [GitHub](https://github.com/) |
 | 4   | 24521093 | Nguyễn Thế Mỹ   |[GitHub](https://github.com/) |
