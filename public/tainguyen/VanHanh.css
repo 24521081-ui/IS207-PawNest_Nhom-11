@@ -1,0 +1,6 @@
+/*
+ * Mục đích: Định dạng menu bên trái, thanh trên và vùng nội dung khu vực vận hành.
+ * Người dùng: Các vai trò nội bộ trên màn hình được cấp quyền.
+ * Liên quan: app/Views/layouts/KhungVanHanh.php; app/Views/VanHanh; app/Views/Components/MenuVanHanh.php.
+ * Hiện trạng: Chưa có quy tắc CSS.
+ */

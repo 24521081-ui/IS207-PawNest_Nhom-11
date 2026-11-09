@@ -1,0 +1,282 @@
+{
+  "report": [
+    {
+      "name": "goc-trang-chu",
+      "width": 1440,
+      "metrics": {
+        "title": "PawNest — Nhà nhỏ, yêu thương lớn",
+        "overflow": false,
+        "bodyWidth": 1440,
+        "header": 92,
+        "banner": 530,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "https://pawnest-minh-demo.warm-snail-7359.chatgpt.site/style.css",
+            "rules": 304
+          }
+        ]
+      }
+    },
+    {
+      "name": "local-trang-chu",
+      "width": 1440,
+      "metrics": {
+        "title": "Trang chủ | PawNest",
+        "overflow": false,
+        "bodyWidth": 1440,
+        "header": 92,
+        "banner": 530,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/Chung.css",
+            "rules": 54
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/ThanhPhan.css",
+            "rules": 68
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/CuaHang.css",
+            "rules": 171
+          }
+        ]
+      }
+    },
+    {
+      "name": "goc-san-pham",
+      "width": 1440,
+      "metrics": {
+        "title": "PawNest — Cửa hàng",
+        "overflow": false,
+        "bodyWidth": 1440,
+        "header": 92,
+        "banner": 240,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "https://pawnest-minh-demo.warm-snail-7359.chatgpt.site/style.css",
+            "rules": 304
+          }
+        ]
+      }
+    },
+    {
+      "name": "local-san-pham",
+      "width": 1440,
+      "metrics": {
+        "title": "Sản phẩm cho chó | PawNest",
+        "overflow": false,
+        "bodyWidth": 1440,
+        "header": 92,
+        "banner": 240,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/Chung.css",
+            "rules": 54
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/ThanhPhan.css",
+            "rules": 68
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/CuaHang.css",
+            "rules": 171
+          }
+        ]
+      }
+    },
+    {
+      "name": "goc-lien-he",
+      "width": 1440,
+      "metrics": {
+        "title": "PawNest — Liên hệ",
+        "overflow": false,
+        "bodyWidth": 1440,
+        "header": 92,
+        "banner": 240,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "https://pawnest-minh-demo.warm-snail-7359.chatgpt.site/style.css",
+            "rules": 304
+          }
+        ]
+      }
+    },
+    {
+      "name": "local-lien-he",
+      "width": 1440,
+      "metrics": {
+        "title": "Liên hệ & chi nhánh | PawNest",
+        "overflow": false,
+        "bodyWidth": 1440,
+        "header": 92,
+        "banner": 240,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/Chung.css",
+            "rules": 54
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/ThanhPhan.css",
+            "rules": 68
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/CuaHang.css",
+            "rules": 171
+          }
+        ]
+      }
+    },
+    {
+      "name": "goc-trang-chu",
+      "width": 390,
+      "metrics": {
+        "title": "PawNest — Nhà nhỏ, yêu thương lớn",
+        "overflow": false,
+        "bodyWidth": 390,
+        "header": 76,
+        "banner": 450,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "https://pawnest-minh-demo.warm-snail-7359.chatgpt.site/style.css",
+            "rules": 304
+          }
+        ]
+      }
+    },
+    {
+      "name": "local-trang-chu",
+      "width": 390,
+      "metrics": {
+        "title": "Trang chủ | PawNest",
+        "overflow": false,
+        "bodyWidth": 390,
+        "header": 76,
+        "banner": 450,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/Chung.css",
+            "rules": 54
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/ThanhPhan.css",
+            "rules": 68
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/CuaHang.css",
+            "rules": 171
+          }
+        ]
+      }
+    },
+    {
+      "name": "goc-san-pham",
+      "width": 390,
+      "metrics": {
+        "title": "PawNest — Cửa hàng",
+        "overflow": false,
+        "bodyWidth": 390,
+        "header": 76,
+        "banner": 180,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "https://pawnest-minh-demo.warm-snail-7359.chatgpt.site/style.css",
+            "rules": 304
+          }
+        ]
+      }
+    },
+    {
+      "name": "local-san-pham",
+      "width": 390,
+      "metrics": {
+        "title": "Sản phẩm cho chó | PawNest",
+        "overflow": false,
+        "bodyWidth": 390,
+        "header": 76,
+        "banner": 180,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/Chung.css",
+            "rules": 54
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/ThanhPhan.css",
+            "rules": 68
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/CuaHang.css",
+            "rules": 171
+          }
+        ]
+      }
+    },
+    {
+      "name": "goc-lien-he",
+      "width": 390,
+      "metrics": {
+        "title": "PawNest — Liên hệ",
+        "overflow": false,
+        "bodyWidth": 390,
+        "header": 76,
+        "banner": 180,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "https://pawnest-minh-demo.warm-snail-7359.chatgpt.site/style.css",
+            "rules": 304
+          }
+        ]
+      }
+    },
+    {
+      "name": "local-lien-he",
+      "width": 390,
+      "metrics": {
+        "title": "Liên hệ & chi nhánh | PawNest",
+        "overflow": false,
+        "bodyWidth": 390,
+        "header": 76,
+        "banner": 180,
+        "images": [],
+        "font": "\"Be Vietnam Pro\", Arial, sans-serif",
+        "css": [
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/Chung.css",
+            "rules": 54
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/ThanhPhan.css",
+            "rules": 68
+          },
+          {
+            "href": "http://127.0.0.1:8080/tainguyen/CuaHang.css",
+            "rules": 171
+          }
+        ]
+      }
+    }
+  ],
+  "errors": [],
+  "requests": []
+}

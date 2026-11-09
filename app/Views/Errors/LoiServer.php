@@ -1,0 +1,1 @@
+<div class="container section"><div class="empty"><img class="empty-cartoon" src="<?= h(anh('art/cat.svg')) ?>" alt=""><h2>Không thể tải giao diện PawNest.</h2><a class="btn" href="<?= h(url('trang-chu')) ?>">Về trang chủ</a></div></div>

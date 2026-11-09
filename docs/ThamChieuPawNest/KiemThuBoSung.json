@@ -1,0 +1,279 @@
+{
+  "checks": [
+    "Giỏ rỗng khóa thanh toán",
+    "Giới hạn 20 khi chọn số lượng",
+    "Cộng vào giỏ không vượt 20",
+    "Giảm số lượng cập nhật tổng",
+    "Bỏ chọn tất cả khóa thanh toán",
+    "Chọn tất cả khôi phục tổng",
+    "Xóa sản phẩm về giỏ rỗng",
+    "Tên A–Z theo tiếng Việt",
+    "Giá giảm dần",
+    "Lọc loại qua form GET",
+    "Hiện/ẩn mật khẩu",
+    "Trả focus về nút tài khoản",
+    "Sửa thú cưng và escape tên",
+    "Không nhận ngày trả bằng ngày nhận",
+    "Trạng thái không có phòng phù hợp",
+    "Spa 120 phút không có khung 17h30",
+    "Bỏ lưu trú bỏ phí phòng",
+    "Đổi điểm xuất phát hủy kết quả đường đi cũ",
+    "Đóng modal khi đang tìm đường",
+    "Lời nhắn phản hồi tại chỗ, xóa form",
+    "Chặn quyên góp dưới tối thiểu",
+    "Mã kết quả không có thông báo phù hợp",
+    "Dữ liệu lưu hỏng không làm hỏng giao diện"
+  ],
+  "visual": [
+    {
+      "name": "chi-tiet",
+      "side": "goc",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1481.859375,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "chi-tiet",
+      "side": "local",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1481.859375,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "thanh-toan",
+      "side": "goc",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1073,
+        "summary": 377.96875,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "thanh-toan",
+      "side": "local",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1073,
+        "summary": 377.96875,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "dat-lich-ket-hop",
+      "side": "goc",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1942.625,
+        "summary": 575.71875,
+        "rooms": 2
+      }
+    },
+    {
+      "name": "dat-lich-ket-hop",
+      "side": "local",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1942.625,
+        "summary": 575.71875,
+        "rooms": 2
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "side": "goc",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1344,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "side": "local",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 1344,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "tai-khoan",
+      "side": "goc",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 917.0625,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "tai-khoan",
+      "side": "local",
+      "width": 1440,
+      "metrics": {
+        "overflow": false,
+        "header": 92,
+        "banner": 240,
+        "main": 917.0625,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "chi-tiet",
+      "side": "goc",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 1975.9375,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "chi-tiet",
+      "side": "local",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 1975.9375,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "thanh-toan",
+      "side": "goc",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 1498.96875,
+        "summary": 377.96875,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "thanh-toan",
+      "side": "local",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 1498.96875,
+        "summary": 377.96875,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "dat-lich-ket-hop",
+      "side": "goc",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 3162.78125,
+        "summary": 575.71875,
+        "rooms": 2
+      }
+    },
+    {
+      "name": "dat-lich-ket-hop",
+      "side": "local",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 3162.78125,
+        "summary": 575.71875,
+        "rooms": 2
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "side": "goc",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 1961.015625,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "side": "local",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 1994.015625,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "tai-khoan",
+      "side": "goc",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 970.75,
+        "rooms": 0
+      }
+    },
+    {
+      "name": "tai-khoan",
+      "side": "local",
+      "width": 390,
+      "metrics": {
+        "overflow": false,
+        "header": 76,
+        "banner": 180,
+        "main": 970.75,
+        "rooms": 0
+      }
+    }
+  ],
+  "errors": [],
+  "requests": []
+}
