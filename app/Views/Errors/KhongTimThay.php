@@ -1,0 +1,1 @@
+<div class="container section"><div class="empty"><img class="empty-cartoon" src="<?= h(anh('art/cat.svg')) ?>" alt=""><h2>Không tìm thấy trang hoặc dữ liệu bạn yêu cầu.</h2><a class="btn" href="<?= h(url('trang-chu')) ?>">Về trang chủ</a></div></div>

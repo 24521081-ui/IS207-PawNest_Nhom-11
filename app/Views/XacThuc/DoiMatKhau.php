@@ -1,0 +1,1 @@
+<div class="container section" id="auth-page"><div class="panel"><h2>Tài khoản PawNest</h2><p>Đăng nhập hoặc đăng ký tài khoản demo. PawNest không lưu mật khẩu bạn nhập.</p><button type="button" class="btn" onclick="auth('forgot')">Xem phản hồi khôi phục</button></div></div>

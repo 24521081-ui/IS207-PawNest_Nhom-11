@@ -1,0 +1,13 @@
+### Nhật ký phát triển website PawNest – Ngày 09/11/2026
+
+**Công việc thực hiện:** Tạo thêm file `index.php` trong thư mục `public` của dự án PawNest.
+
+**Mục đích:** File `index.php` đóng vai trò là **điểm truy cập chính (Entry Point)** và **bộ điều hướng trang (Router)** của website. File này có nhiệm vụ tiếp nhận yêu cầu từ URL, xác định trang mà người dùng muốn truy cập và điều hướng đến đúng file giao diện tương ứng.
+
+**Cách hoạt động:**
+- Khi người dùng truy cập website, `index.php` sẽ xác định trang cần hiển thị thông qua tham số `trang` trên URL.
+- Liên kết với file `app/Views/layouts/KhungCuaHang.php` để sử dụng bố cục giao diện chung, bao gồm Header, nội dung chính và Footer.
+- Xác định các file nội dung trong thư mục `app/Views/CuaHang/`, chẳng hạn `TrangChu.php`, `DichVu.php`, `LuuTru.php`, `DatLich.php`... để hiển thị theo yêu cầu của người dùng khi các trang này được bổ sung.
+- Kiểm tra tính hợp lệ của trang được yêu cầu, thông báo lỗi nếu trang không tồn tại hoặc thiếu file giao diện.
+
+**Công việc tiếp theo:** Xây dựng `KhungCuaHang.php`, các thành phần Header, Footer và giao diện `TrangChu.php`; sau đó bổ sung các trang chức năng vào bộ điều hướng.

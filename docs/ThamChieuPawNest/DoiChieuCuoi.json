@@ -1,0 +1,146 @@
+{
+  "checks": [
+    "spa 1440",
+    "luu-tru 1440",
+    "quyen-gop 1440",
+    "spa 390",
+    "luu-tru 390",
+    "quyen-gop 390"
+  ],
+  "screens": [
+    {
+      "name": "spa",
+      "width": 1440,
+      "side": "goc",
+      "metrics": {
+        "height": 1246.75,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 320
+      }
+    },
+    {
+      "name": "spa",
+      "width": 1440,
+      "side": "local",
+      "metrics": {
+        "height": 1246.75,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 320
+      }
+    },
+    {
+      "name": "luu-tru",
+      "width": 1440,
+      "side": "goc",
+      "metrics": {
+        "height": 1493.4375,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 320
+      }
+    },
+    {
+      "name": "luu-tru",
+      "width": 1440,
+      "side": "local",
+      "metrics": {
+        "height": 1493.4375,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 320
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "width": 1440,
+      "side": "goc",
+      "metrics": {
+        "height": 1344,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 320
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "width": 1440,
+      "side": "local",
+      "metrics": {
+        "height": 1344,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 320
+      }
+    },
+    {
+      "name": "spa",
+      "width": 390,
+      "side": "goc",
+      "metrics": {
+        "height": 1388.578125,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 260
+      }
+    },
+    {
+      "name": "spa",
+      "width": 390,
+      "side": "local",
+      "metrics": {
+        "height": 1388.578125,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 260
+      }
+    },
+    {
+      "name": "luu-tru",
+      "width": 390,
+      "side": "goc",
+      "metrics": {
+        "height": 2487.203125,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 260
+      }
+    },
+    {
+      "name": "luu-tru",
+      "width": 390,
+      "side": "local",
+      "metrics": {
+        "height": 2487.203125,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 260
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "width": 390,
+      "side": "goc",
+      "metrics": {
+        "height": 1961.015625,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 260
+      }
+    },
+    {
+      "name": "quyen-gop",
+      "width": 390,
+      "side": "local",
+      "metrics": {
+        "height": 1961.015625,
+        "overflow": false,
+        "eyebrow": "none",
+        "photo": 260
+      }
+    }
+  ],
+  "errors": [],
+  "requests": []
+}

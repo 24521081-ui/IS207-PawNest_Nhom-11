@@ -1,0 +1,1 @@
+<div class="panel"><div class="row"><h2>Thú cưng của tôi</h2><button type="button" class="btn sm" onclick="petModal()"><?= icon('plus') ?> Thêm thú cưng</button></div><div class="choice-grid" id="account-pets"></div></div>
